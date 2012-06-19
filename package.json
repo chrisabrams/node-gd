@@ -8,5 +8,5 @@
     { "name": "Dudochkin Victor", "email": "<blacksmith@gogoo.ru>" }
   ],
   "main": "./gd.js",
-  "engines": { "node": ">= 0.4.8" }
+  "engines": { "node": ">= 0.6.0" }
 }
